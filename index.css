@@ -1,0 +1,192 @@
+  *{
+      flex-wrap: wrap;
+
+  }
+  
+  .head1 {
+      color: #0182bc;
+      text-shadow: 4px;
+      font-size: 20px;
+      background: #8ffffd;
+      border:solid #4a6a8f;
+      height: 150px;
+      width: 103%;
+      font-family: 'Bebas Neue', cursive;
+    
+      
+    }
+    
+    nav {
+      
+        color:coral;
+        font-size: 18px;
+     
+        
+    }
+    nav a:hover {
+        background:#0182bc;
+
+
+    }
+
+    nav a {
+        border: solid;
+        margin-right:0%;
+  text-decoration:none;
+  font-family:sans-serif;
+  color:black;
+  font-size:14px;
+  padding:13px 30px;
+  transition:.3s;
+  font-family: 'Bebas Neue', cursive;
+  
+  
+    }
+
+    section .first img {
+        height: 800px;
+        margin:20px;
+        border-radius: 5%;
+
+    }
+
+    
+
+    .name {
+        border:solid;
+        width: 500px;
+        background: #8ffffd;
+        position: absolute;
+        right: 25%;
+        top: 50%;
+        height: 320px;
+        padding: 25px;
+        font-family: 'Bebas Neue', cursive;
+        
+    }
+
+
+
+     section .second img {
+      /*  height: 300px;
+        margin:20px;
+        border-radius: 5%;
+        position: absolute;
+        right:38%;
+        top: 111%; */
+
+        border-radius: 5%;
+        height: 310px;
+        margin:20px;
+        width: 450px; 
+
+    }
+
+    section .third img {
+        height: 300px;
+        margin:20px;
+        border-radius: 5%;
+        position: absolute;
+        right:48%;
+        top: 111%;
+        width: 450px;
+    }
+    
+    section .fourth img {
+        height: 300px;
+        margin:20px;
+        border-radius: 5%;
+        position: absolute;
+        right:22%;
+        top: 111%;
+        
+    }
+
+    section .fifth img {
+        height: 300px;
+        margin:20px;
+        border-radius: 5%;
+        position: absolute;
+        right: -4%;
+        top: 111%;
+        width: 450px;
+
+    }
+
+    section .sixth img {
+        height: 300px;
+        margin:20px;
+        border-radius: 8%;  
+       
+    }
+
+    section .seventh img {
+        height: 300px;
+        margin:20px;
+        border-radius: 5%;
+        position: absolute;
+        right:48%;
+        top: 148%;
+    }
+
+    section .eight img {
+        height: 300px;
+        margin:20px;
+        border-radius: 5%;
+        position: absolute;
+        right:22%;
+        top: 148%;
+        width: 450px;
+    }
+
+
+    section .nineth img {
+        height: 300px;
+        margin:20px;
+        border-radius: 5%;
+        position: absolute;
+        right:-4%;
+        top: 148%;
+        width: 450px;
+
+    }
+    
+      h2 {
+        font-size: 25px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border: solid;
+        background: #8ffffd;
+        height: 250px;  
+        width: 103%; 
+        font-family: 'Bebas Neue', cursive;
+
+    }
+
+button {
+    height: 60px;
+    width: 155px;
+    background:  #8ffffd;
+    font-size: 18px;
+    border-radius: 5%;
+    position: absolute;
+    left: 47%;
+    bottom: -110%;
+    transition:.3s;
+    font-family: 'Bebas Neue', cursive;
+
+}
+ button:hover{
+    background:#0182bc;
+ }
+
+
+
+
+
+
+
+
+       
+    
