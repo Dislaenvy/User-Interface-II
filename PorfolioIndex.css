@@ -1,0 +1,164 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    max-width: 100%;  
+}
+/*Grneral Styles*/
+
+html{
+    font-size: 62.5%;
+}
+body{
+    font-size: 1.6rem;
+    line-height: 1.5;
+    font-family: 'Roboto Mono', monospace;
+    
+}
+/* Head Top*/
+.head1 {
+    background-color: #8ffffd;
+}
+/*Navagation bar*/
+h1 {
+    color: #0182bc;
+    margin-left: 15px;
+}
+nav{
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 15px;
+    background: #8ffffd;
+}
+nav a{
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+    
+}
+nav a:hover {
+    background:#FFEBCD;
+    transition: 1.5s;
+}
+/*Top Image*/
+.headImg{
+    display: flex;
+    justify-content: center; 
+}
+.firstImg img{
+    height: 80%;
+    width: 90%;  
+}
+.name h1:hover{
+    font-weight: bold;
+    color:#8ffffd;
+    transition: 1.5s;
+}
+.name h1{
+    display: flex;
+    justify-content: center;
+    margin-top: -23%;
+    margin-left: -5%;
+    color: #FFEBCD;  
+}
+button:hover{
+    font-weight: bold;
+    color:#8ffffd;
+    transition: 1.5s;
+}
+button{
+    display: flex;
+    margin-top: -31.5%;
+    margin-left: 44%;
+    font-size: 2.1rem;
+    color: #FFEBCD;
+    font-family: 'Roboto Mono', monospace;
+    text-decoration: underline overline;
+    padding-bottom: 16%;
+    border: none;
+    background-color: white;
+
+    
+}
+/*Gallery Display*/
+.gallery{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-bottom: 1%;
+    
+
+}
+.gallery .img1 img{
+    height: 90%;
+    margin-top: 3%;
+    border-radius: 10px;
+    padding: 0.5%;
+    
+}
+.gallery .img1{
+width: 30%;
+border-radius: 10px;
+}
+.gallery .img2 img{
+    height: 90%;
+    margin-top: 2%;
+    border-radius: 10px;
+    padding: 1%;
+}
+.gallery .img2{
+    width: 30%;
+    border-radius: 10px;
+}
+.gallery .img3 img{
+    height: 90%;
+    margin-top: 2%;
+    border-radius: 10px;
+    padding: 1%;
+}
+.gallery .img3{
+    
+    border-radius: 10px;
+}
+.gallery2{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;  
+}
+.gallery2 .img4 img{
+    height: 90%;
+    margin-top: 2%;
+    border-radius: 10px;
+}
+.gallery2 .img4{
+    width: 30%;
+    border-radius: 10px;
+}
+.gallery2 .img5 img{
+    height: 90%;
+    margin-top: 2%;
+    border-radius: 10px;
+}
+.gallery2 .img5{
+    display: flex;
+    width: 30%;
+    margin-left: -0.10%;
+    border-radius: 10px;
+}
+.gallery2 .img6 img{
+    height: 90%;
+    margin-top: 2%;
+    border-radius: 10px;
+}
+.gallery2 .img6{
+    width: 33%;
+    height: -2vh;
+    border-radius: 10px;
+} 
+/*Footer*/
+footer{
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+    background-color: #8ffffd;
+}
