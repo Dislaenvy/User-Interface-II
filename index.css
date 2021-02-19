@@ -25,8 +25,6 @@
     }
     nav a:hover {
         background:#0182bc;
-
-
     }
 
     nav a {
@@ -67,8 +65,8 @@
 
 
 
-     section .second img {
-      /*  height: 300px;
+     section .second img  {
+       /*  height: 300px;
         margin:20px;
         border-radius: 5%;
         position: absolute;
@@ -179,14 +177,4 @@ button {
 }
  button:hover{
     background:#0182bc;
- }
-
-
-
-
-
-
-
-
-       
-    
+}
